@@ -21,7 +21,7 @@
 			"domain_files": ["cityofheroes.txt"]
 		},
 		{
-			"name": "cityofheroes",
+			"name": "closersonline",
 			"description": "Closers",
 			"domain_files": ["closersonline.txt"]
 		},
