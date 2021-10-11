@@ -1,2 +1,3 @@
 closersonline.com
 *.closersonline.com
+d3m6rsxzyo3al0.cloudfront.net
