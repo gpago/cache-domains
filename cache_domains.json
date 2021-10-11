@@ -21,6 +21,11 @@
 			"domain_files": ["cityofheroes.txt"]
 		},
 		{
+			"name": "cityofheroes",
+			"description": "Closers",
+			"domain_files": ["closersonline.txt"]
+		},
+		{
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
 			"domain_files": ["daybreak.txt"]
